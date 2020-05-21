@@ -11,3 +11,4 @@
 
 [Electron](https://www.electronjs.org) - приложение
 
+[TailWindCSS](https://tailwindcss.com) - css-фреймворк 
