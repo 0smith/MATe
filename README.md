@@ -11,5 +11,3 @@
 
 [Electron](https://www.electronjs.org) - приложение
 
-[Google Fonts](https://fonts.google.com) - шрифт
-
