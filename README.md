@@ -9,6 +9,8 @@
 # Credits
 [MLCL](https://github.com/Pierce01/MinecraftLauncher-core) - на чем Minecraft и загружается
 
+[Vue](https://vuejs.org) - js-фреймворк
+
 [Electron](https://www.electronjs.org) - приложение
 
 [TailWindCSS](https://tailwindcss.com) - css-фреймворк 
