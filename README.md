@@ -2,12 +2,14 @@
 > Minecraft лаунчер, использующий Electron
 
 # Планы
-* Сделать связку с Discord
-* Сделать приятный дизайн (75%)
+* Сделать связку с Discord (75%)
 * Сделать менеджер аккаунтов
 * Сделать выбор версии
 * Сделать поддержку ~OptiFine~ и Forge
 * Сделать лаунчер
+
+# Готово
+* Дизайн
 
 # Credits
 [MLCL](https://github.com/Pierce01/MinecraftLauncher-core) - на чем Minecraft и загружается
