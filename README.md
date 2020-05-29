@@ -14,8 +14,12 @@
 # Credits
 [MLCL](https://github.com/Pierce01/MinecraftLauncher-core) - на чем Minecraft и загружается
 
+[node-powershell](https://github.com/rannn505/node-powershell) - Minecraft: BE & Dungeons
+
+[node-yggdrasil](https://github.com/PrismarineJS/node-yggdrasil) - вход в лицензионный аккаунт
+
 [Vue](https://vuejs.org) - js-фреймворк
 
 [Electron](https://www.electronjs.org) - приложение
 
-[TailWindCSS](https://tailwindcss.com) - css-фреймворк 
+[TailwindCSS](https://tailwindcss.com) - css-фреймворк 
