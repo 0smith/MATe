@@ -1,4 +1,4 @@
-# MATE
+# MATE [![Crowdin](https://badges.crowdin.net/mate-launcher/localized.svg)](https://crowdin.com/project/mate-launcher)
 > Minecraft лаунчер, использующий Electron
 
 # Лицензия
