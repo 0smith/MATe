@@ -5,10 +5,6 @@
 MIT
 
 # Планы
-* Сделать скины
-* Сделать логи
-* Сделать поддержку ~OptiFine~ и Forge
-* Сделать лаунчер
 
 # Credits
 [MLCL](https://github.com/Pierce01/MinecraftLauncher-core) - на чем Minecraft и загружается
