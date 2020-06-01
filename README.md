@@ -1,8 +1,5 @@
-# MATE [![Crowdin](https://badges.crowdin.net/mate-launcher/localized.svg)](https://crowdin.com/project/mate-launcher)
+# MATE [![Crowdin](https://badges.crowdin.net/mate-launcher/localized.svg)](https://crowdin.com/project/mate-launcher) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 > Minecraft лаунчер, использующий Electron
-
-# Лицензия
-MIT
 
 # Планы
 
