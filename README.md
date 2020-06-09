@@ -4,11 +4,7 @@
 # Планы
 
 # Credits
-[MLCL](https://github.com/Pierce01/MinecraftLauncher-core) - на чем Minecraft и загружается
-
-[node-powershell](https://github.com/rannn505/node-powershell) - Minecraft: BE & Dungeons
-
-[node-yggdrasil](https://github.com/PrismarineJS/node-yggdrasil) - вход в лицензионный аккаунт
+[matecore](https://github.com/matelauncher/matecore) - Главная библиотека MATE Launcher
 
 [Vue](https://vuejs.org) - js-фреймворк
 
