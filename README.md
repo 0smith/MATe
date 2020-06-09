@@ -3,6 +3,23 @@
 
 # Планы
 
+# Contributing
+* Лаунчер/Launcher:
+```bash
+$ git clone https://github.com/matelauncher/mate
+$ cd mate
+$ npm i
+$ npm run electron:serve
+```
+
+* Crowdin
+Зайдите в [Discord](https://discord.gg/ntS5f2J) и напишите в #chat
+
+Join the [Discord](https://discord.gg/ntS5f2J) server and go to #chat
+
+# Bugs/Баги
+[Issues](https://github.com/MATElauncher/MATE/issues)
+
 # Credits
 [matecore](https://github.com/matelauncher/matecore) - Главная библиотека MATE Launcher
 
