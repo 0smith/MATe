@@ -13,6 +13,7 @@ $ npm run electron:serve
 ```
 
 * Crowdin
+
 Зайдите в [Discord](https://discord.gg/ntS5f2J) и напишите в #chat
 
 Join the [Discord](https://discord.gg/ntS5f2J) server and go to #chat
