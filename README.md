@@ -1,4 +1,4 @@
-[![MATE](.github/mate.png)]
+![MATE](.github/mate.png)
 
 # MATE [![Crowdin](https://badges.crowdin.net/mate-launcher/localized.svg)](https://crowdin.com/project/mate-launcher) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Tests](https://github.com/MATElauncher/MATE/workflows/Tests/badge.svg)
 > Minecraft лаунчер, использующий Electron
