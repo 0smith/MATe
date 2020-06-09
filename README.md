@@ -12,12 +12,7 @@ $ npm i
 $ npm run electron:serve
 ```
 
-* Crowdin
-**
-Зайдите в [Discord](https://discord.gg/ntS5f2J) и напишите в #chat
-
-Join the [Discord](https://discord.gg/ntS5f2J) server and go to #chat
-**
+* [Crowdin](https://crowdin.net/project/mate-launcher)
 
 # Bugs/Баги
 [Issues](https://github.com/MATElauncher/MATE/issues)
