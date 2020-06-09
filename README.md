@@ -1,4 +1,4 @@
-# MATE [![Crowdin](https://badges.crowdin.net/mate-launcher/localized.svg)](https://crowdin.com/project/mate-launcher) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# MATE [![Crowdin](https://badges.crowdin.net/mate-launcher/localized.svg)](https://crowdin.com/project/mate-launcher) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Node.js CI](https://github.com/MATElauncher/MATE/workflows/Node.js%20CI/badge.svg)
 > Minecraft лаунчер, использующий Electron
 
 # Планы
