@@ -10,7 +10,7 @@ Currently, project is paused on develop. / В настоящий момент п
 
 Project needs JavaScript, Node.JS, Vue.JS, ElectronJS devs / Проект нуждается в разработчиках JS, Node.JS, Vue.JS, ElectronJS
 
-Join the [Discord Server](https://discord.gg/ntS5f2J) and ping @redcarti#0070 to more info / Присоединитесь к [дискорду](https://discord.gg/ntS5f2J) и пинганите @redcarti#0070 для дальнейшей информации
+Join the [Discord Server](https://discord.gg/ntS5f2J) and ping ``@redcarti#0070`` to more info / Присоединитесь к [дискорду](https://discord.gg/ntS5f2J) и пинганите ``@redcarti#0070`` для дальнейшей информации
 
 # Contributing
 * Лаунчер/Launcher:
